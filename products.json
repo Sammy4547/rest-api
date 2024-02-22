@@ -1,0 +1,65 @@
+[
+  {
+    "name": "iphone",
+    "price": 154,
+    "featured": true,
+    "company":"apple",
+    "ratings":"4.3"
+ },
+ {
+    "name": "dell-m5",
+    "price": 30000,
+    "featured": true,
+    "company":"dell",
+    "ratings":"4.3"
+ },
+ {
+    "name": "iphone 12",
+    "price": 1540,
+    "featured": true,
+    "company":"apple",
+    "ratings":"4.3"
+ },
+ {
+    "name": "iphone 10",
+    "price": 15000,
+    "featured": true,
+    "company":"apple",
+    "ratings":"4.3"
+ },
+ {
+    "name": "Samsung Galaxy S24",
+    "price": 154,
+    "featured": true,
+    "company":"samsung",
+    "ratings":"4.3"
+ },
+ {
+    "name": "Mi 12",
+    "price": 15,
+    "featured": true,
+    "company":"mi",
+    "ratings":"4.3"
+ },
+ {
+    "name": "iphone 13",
+    "price": 10000,
+    "featured": true,
+    "company":"apple",
+    "ratings":"4.3"
+ },
+ {
+    "name": "Samasung F14",
+    "price": 154,
+    "featured": true,
+    "company":"samsung",
+    "ratings":"4.3"
+ },
+ {
+    "name": "Dell F23",
+    "price": 154,
+    "featured": true,
+    "company":"dell",
+    "ratings":"4.3"
+ }
+]
